@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Agenda</title>
+    </head>
+
+    <body>
+        <table>
+            <tr>
+                <th>Nome</th>
+                <th>Sobrenome</th>
+            </tr>
+            {%  for contato in contatos %}
+            <tr>
+                <th>{{ contato.nome }}</th>
+                <th>{{ contato.sobrenome }}</th>
+            </tr>
+            {% endfor %}
+        </table>
+    </body>
+</html>
