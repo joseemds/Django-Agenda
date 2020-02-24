@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f55ded92-7817-461b-ab35-d161565f7cb6" name="Default Changelist" comment="" />
+    <list default="true" id="9d7a4f91-a067-468e-be5e-590028f60d76" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,7 +18,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Y5l3Ir26TjPcKkiOE9uWeOm5Mx" />
+  <component name="ProjectId" id="1YEK7gT3vqfVwe6QUcmcjyEuOWJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,15 +28,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\José Eduardo\PycharmProjects\DjangoAgenda\templates\static" />
+      <recent name="D:\Users\José Eduardo\PycharmProjects\DjangoAgenda\templates" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="Agenda" type="Python.DjangoServer" factoryName="Django server">
+    <configuration name="DjangoAgenda" type="Python.DjangoServer" factoryName="Django server">
       <module name="Agenda" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,14 +66,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f55ded92-7817-461b-ab35-d161565f7cb6" name="Default Changelist" comment="" />
-      <created>1582240135365</created>
+      <changelist id="9d7a4f91-a067-468e-be5e-590028f60d76" name="Default Changelist" comment="" />
+      <created>1582502148008</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582240135365</updated>
-      <workItem from="1582240161747" duration="1733000" />
-      <workItem from="1582284179037" duration="779000" />
-      <workItem from="1582335033691" duration="1807000" />
+      <updated>1582502148008</updated>
+      <workItem from="1582502151597" duration="7924000" />
+      <workItem from="1582547264347" duration="6224000" />
+      <workItem from="1582564777052" duration="2272000" />
+      <workItem from="1582567110371" duration="8322000" />
     </task>
     <servers />
   </component>
@@ -77,9 +82,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="369" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1582335035975">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582567404581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="369" y="168" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582335035975" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582567404581" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1582569885322">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582569885322" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1582567122646">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582567122646" />
   </component>
 </project>
